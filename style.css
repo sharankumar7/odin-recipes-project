@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    padding: 15px;
+    margin: 10px;
+    font-weight: bolder;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    margin: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
